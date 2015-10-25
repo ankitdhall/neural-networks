@@ -57,4 +57,8 @@ def run(X, y, iterations = 10000):
 
 	#print layer1, synapse0
 	print layer2_error
+<<<<<<< HEAD
 run(X, y)
+=======
+run(X, y)
+>>>>>>> 4d5ea62b9e9e85408f2975bf77997f6ff2705948
